@@ -24,7 +24,8 @@ figcaption {
 }
 
 .timeTo span {
-  vertical-align: top
+  vertical-align: top;
+  padding: 15px;
 }
 
 .timeTo.timeTo-white div {
